@@ -5,9 +5,9 @@
 }
 
 body{
-    background-color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    background-color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 255, 255);
     font-weight: 400;
     font-size: 20px;
     text-align: center;
@@ -15,40 +15,48 @@ body{
 }
 
 h1{
-    color: black;
-    font-size: 35px;
+    color: #ffffff;
+    font-size: 90;
     margin-bottom: 30px;
     text-align: center;
-}
-
-h1:hover{
-    color: black;
+    text-shadow:
+    0px 0px 10px #4133ff,
+    0px 0px 20px #4133ff,
+    0px 0px 40px #4133ff,
+    0px 0px 60px #4133ff,
+    0px 0px 80px #4133ff;
 }
 
 h2{
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 25px;
     margin-bottom: 30px;
     text-align: center;
 }
 
 #foto{
-    height: 300px;
-    width: 300px;
+    margin-top: 100px;
+    height: 250px;
+    width: 250px;
+
    
 }
 
 .box{
+
     margin: 0 auto;
-    width: 300px;
-    height: 400px;
-    background-color: black;
+    width: 420px;
+    height: auto;
     position: relative;
+    border: 5px solid rgb(255, 255, 255);
 }
 
 .text{
-    color: white;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 18px;
+    font-size: 30px;
+    font-weight: bolder;
+    
 
 }

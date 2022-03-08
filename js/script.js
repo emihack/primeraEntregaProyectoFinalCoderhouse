@@ -8,19 +8,19 @@ const promo = [
         vehiculo: "Auto",
         id: "Responsabilidad civil contra terceros",
         precio: 1839,
-        foto: "https://www.sebandainsurance.com/blog/wp-content/uploads/2020/11/01-funcionamiento-seguro-autos.jpg",
+        foto: "https://cdn-icons-png.flaticon.com/512/2077/2077178.png",
     },
     {
         vehiculo: "Camioneta",
         id: "Responsabilidad civil contra terceros",
         precio: 2087,
-        foto: "https://assets.iprofesional.com/cdn-cgi/image/w=880,f=webp/https://assets.iprofesional.com/assets/jpg/2020/07/499140.jpg",
+        foto: "https://cdn-icons-png.flaticon.com/512/2077/2077061.png",
     },
     {
         vehiculo: "Moto",
         id: "Responsabilidad civil contra terceros",
         precio: 330,
-        foto: "https://www.turboseguros.com/wp-content/uploads/2019/05/seguros-para-motos-coberturas.jpg",
+        foto: "https://cdn-icons-png.flaticon.com/512/2077/2077054.png",
     },
 
 ];
