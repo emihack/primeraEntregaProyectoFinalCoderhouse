@@ -1,8 +1,8 @@
-//Doy bienvenida
+//Bienvenida
 let cliente = prompt("Ingrese su nombre").toUpperCase();
 document.write("Bienvenido " + cliente + " a Hermes Asesores de Seguros" + "<br>" );
 
-//array
+//array de objetos
 const promo = [
     {
         vehiculo: "Auto",
