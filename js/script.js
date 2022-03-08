@@ -67,7 +67,7 @@ function descuento(resta,suma) {
         document.write("</div>"  + "<br>");
         document.write("</div>"  + "<br>");
 
-        // a traves de las operaciones sacar el precio final con iva y descuento
+        // sacar el precio final con iva y descuento
         let precioFinal = resta(suma(2087, iva(2087)), 287); 
         document.write("<br>" + "Elegiste asegurar tu Camioneta" + "<br>" + "El precio Final es de: $" + precioFinal + "<br>");
         alert("Tenes un descuento de $287");
@@ -85,7 +85,7 @@ function descuento(resta,suma) {
         document.write("</div>" + "<br>");
         document.write("</div>"  + "<br>");
 
-        // a traves de las operaciones sacar el precio final con iva y descuento
+        // sacar el precio final con iva y descuento
         let precioFinal = resta(suma(330, iva(330)), 130); 
         document.write("<br>" + "Elegiste asegurar tu Moto" + "<br>" + "El precio Final es de: $" + precioFinal + "<br>");
         alert("Tenes un descuento de $130");
